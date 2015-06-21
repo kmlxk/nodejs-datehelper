@@ -1,0 +1,23 @@
+{
+  "name": "datehelper",
+  "version": "0.0.1",
+  "description": "Extend methods to JS Date Objects",
+  "main": "datehelper.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmlxk/nodejs-datehelper"
+  },
+  "keywords": [
+    "date",
+    "helper"
+  ],
+  "author": "kmlxk0@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmlxk/nodejs-datehelper/issues"
+  },
+  "homepage": "https://github.com/kmlxk/nodejs-datehelper"
+}
